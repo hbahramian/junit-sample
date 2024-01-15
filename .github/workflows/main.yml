@@ -1,4 +1,4 @@
-name: Java
+name: run junit tests
 
 on:
   push:
